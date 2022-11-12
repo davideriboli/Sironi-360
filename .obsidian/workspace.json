@@ -15,6 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }

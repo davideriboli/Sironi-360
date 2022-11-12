@@ -17,6 +17,9 @@ La lingua ufficiale del progetto è l'italiano.
 ## Disponibilità
 Tutti i file sono distribuiti sotto licenza MIT (vedi file [[LICENSE]]) e disponibili agli interessati per la durata del progetto. La chiusura di questo repository implica il termine della disponibilità dei materiali sotto licenza MIT.
 
+## Formato
+Il progetto comporta l'uso di file di diversi formati, ma si sviluppa complessivamente come *vault* [Obsidian](https://obsidian.md), quindi per accedere correttamente al lavoro è necessario prima installare Obsidian sulla propria macchina e poi aprire questo repository come *vault*.
+
 ## Legenda e organizzazione dei materiali
 
 Le directory portano nomi autoesplicativi e contengono tutte dei file guida.
