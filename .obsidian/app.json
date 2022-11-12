@@ -1,0 +1,15 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "it-IT"
+  ],
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}

@@ -1,2 +1,23 @@
-# Sironi-360
-Tutti i file del progetto sperimentale "Sironi 360"
+# Sironi 360
+## Informazioni generali
+Questo repository contiene tutti i file necessari al progetto sperimentale di rilevamento in realtà virtuale non immersiva della [Accademia di Belle Arti di Sassari](http://www.accademiasironi.it).
+Il nome in codice del progetto è *Sironi 360*.
+Il responsabile del progetto è il prof. Davide Riboli.
+Collaborano al progetto questi studenti del Biennio Specialistico di Didattica per l'Arte:
+
+-  Carlo Antonio Demontis
+- Alessandro Fadda
+- Gabriele Pisano
+- Carlo Schoeneberger
+- Marco Velli
+
+
+La lingua ufficiale del progetto è l'italiano.
+
+## Disponibilità
+Tutti i file sono distribuiti sotto licenza MIT (vedi file [[LICENSE]]) e disponibili agli interessati per la durata del progetto. La chiusura di questo repository implica il termine della disponibilità dei materiali sotto licenza MIT.
+
+## Legenda e organizzazione dei materiali
+
+Le directory portano nomi autoesplicativi e contengono tutte dei file guida.
+Le cartelle da P0 a P3 contengono i materiali relativi ai singoli piani della Accademia, intesi per come appaiono sulla pulsantiera degli ascensori interni.

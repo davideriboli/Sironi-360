@@ -1,0 +1,1 @@
+Serve solo come ricovero momentaneo per materiali di qualsiasi natura che debbono poi trovare collocazione altrove o essere eliminati dal progetto.
