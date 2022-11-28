@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5a4f755861cca9",
+        "id": "1d6cf49220f542cb",
         "type": "tabs",
         "children": [
           {
-            "id": "cc670a8b8783a627",
+            "id": "4f6defbb0a760b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee007edaa8adc5b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,14 +121,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc670a8b8783a627",
+  "active": "c75ab6532882d659",
   "lastOpenFiles": [
-    "P3/ReadMe.md",
     "Convento/ReadMe.md",
+    "Buttami/Test Generale.md",
+    "README.md",
+    "P3/ReadMe.md",
     "Immagine-Coordinata/ReadMe.md",
     "P0/ReadMe.md",
     "P1/ReadMe.md",
-    "P2/ReadMe.md",
-    "README.md"
+    "P2/ReadMe.md"
   ]
 }

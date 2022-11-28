@@ -24,3 +24,5 @@ Il progetto comporta l'uso di file di diversi formati, ma si sviluppa complessiv
 
 Le directory portano nomi autoesplicativi e contengono tutte dei file guida.
 Le cartelle da P0 a P3 contengono i materiali relativi ai singoli piani della Accademia, intesi per come appaiono sulla pulsantiera degli ascensori interni.
+
+https://elizabethbutlermd.com/obsidian-notes/
