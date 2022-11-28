@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee007edaa8adc5b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +112,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c75ab6532882d659",
+  "active": "4f6defbb0a760b49",
   "lastOpenFiles": [
     "Convento/ReadMe.md",
     "Buttami/Test Generale.md",
